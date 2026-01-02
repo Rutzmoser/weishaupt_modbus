@@ -1242,9 +1242,9 @@ PARAMS_TIME_H: dict = {"icon": "mdi:clock-time-eight", "unit": UnitOfTime.HOURS}
 #                           of this integration. The definition of the calculation is done in params
 #              SELECT: A select entity
 #              NUMBER: A number entity. The value of this entity can be changed by the user interface
-#              NUMBER_RO: In principle, this is also a number entity that ir writable. But to avoid damages at the heatpump
+#              NUMBER_RO: In principle, this is also a number entity that is writable. But to avoid damages at the heatpump
 #                         we decided to make this entity read only.
-# device: The devise this entity is assigned to. DEVICES are used here to group the entities in a meaningful way
+# device: The device this entity is assigned to. DEVICES are used here to group the entities in a meaningful way
 # params: Parameters to control the behavior of the entity, see description of the params lists
 # translation_key: The identifier that points to the right translation key. Therefore, the files strings.json and the
 #                  language specific files in the subfolder "translations" have to be up-to-date
