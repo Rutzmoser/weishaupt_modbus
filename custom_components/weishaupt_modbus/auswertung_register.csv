@@ -87,7 +87,7 @@ Register;Name Doku;MadOne;Ostrama
 36704;Elektr. Energie Jahr;0;0
 36801;;0;0
 40001;Systembetriebsart;1;1
-40002;;0;0
+40002;Sollwert PV;0;0
 41101;HZ_Konfiguration;3;3
 41102;Anforderung Typ;1;1
 41103;Betriebsart;0;0
